@@ -1,8 +1,5 @@
 # EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
 
-## DATE:6-5-2024
-## NAME:MOHAMED AAKIF ASRAR S
-## REG NO:212223240088
 
 ## AIM
 To create a 3Dmodel from the given isometric drawing using fusion 360 tool. 
